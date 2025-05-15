@@ -22,9 +22,7 @@
 <br>  
 
 <br>🛠 Tools 🛠<br><p>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-1E2A4E?style=flat&logo=intelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-7B68EE?style=flat&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+
 
 
 
