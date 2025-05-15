@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=OpenJDK&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-6DB33F?style=flat&logo=JSON&logoColor=white"/>
   
 <p>   
